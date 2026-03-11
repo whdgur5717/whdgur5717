@@ -13,3 +13,7 @@
 | 프로젝트 | PR | 내용 |
 |---|---|---|
 | [pnpm](https://github.com/pnpm/pnpm) | [#10490](https://github.com/pnpm/pnpm/pull/10490) | 상대 경로 `storeDir` 사용 시 store 명령어 경로 해석 버그 수정 |
+
+## Blog
+
+[\![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jh5717/posts)
